@@ -1,2 +1,3 @@
 # CleanGwangju.github.io
-CleanGwangju.weebly.com
+
+Forwards to [CleanGwangju.weebly.com](https://CleanGwangju.weebly.com)
